@@ -1,9 +1,10 @@
-Visual Studio code Setup
-This repository stores the VS Code setup used on my last projects. The idea was
-shamelessly stolen from Kent C Dodds (https://kentcdodds.com/uses):
+Visual Studio code Setup This repository stores the VS Code setup used on my
+last projects. The idea was shamelessly stolen from Kent C Dodds
+(https://kentcdodds.com/uses):
 
-- .eslintrc.json: Eslint setup.
+- .eslintrc.js: Eslint config file.
 - .gitignore: Git ignore, modified from the one generated with create-react-app.
+- .prettierrc.js: Prettier config file.
 - captureCodeExtensions.js: Script to print a list of VSCode installed
   extensions.
 - express-server.js: Express setup, used for projects that include Express and a
